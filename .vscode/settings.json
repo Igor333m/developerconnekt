@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#99ac6f",
+    "titleBar.inactiveBackground": "#FFC600CC"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showExpandedAbbreviation": "never",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
